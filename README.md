@@ -8,10 +8,15 @@
 AI-Powered Applications – NLP, computer vision, and predictive modeling solutions optimized for real-time performance.
 Cloud-Native Architectures – Deploying AI models, microservices, and ML workflows on AWS, Kubernetes, and serverless environments.
 End-to-End Automation – Integrating CI/CD, MLOps, and distributed systems for scalable AI/ML pipelines.
+
 🔥 Tech Stack & Tools
+
 💻 Languages: Python, Java, Scala, TypeScript, Go
+
 ⚙️ ML & AI: TensorFlow, PyTorch, OpenCV, Transformers, LLMs
+
 ☁️ Cloud & DevOps: AWS (S3, Lambda, EKS), Azure, Docker, Kubernetes, Terraform
+
 📊 Data & Databases: PostgreSQL, MongoDB, Snowflake, DynamoDB
 
 ⚡ Fun Fact
