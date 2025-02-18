@@ -1,10 +1,18 @@
-👋 Hi, I’m Ravi Kumar Nalla!     
-👀 I’m a versatile professional with expertise in hardware automation, IoT systems, and software development, combining hands-on experience in developing end-to-end solutions across industries.      
-🌱 Currently, I’m advancing my skills in generative AI, cloud computing, and distributed systems to bridge the gap between hardware and software innovation.          
-💼 My portfolio includes designing IoT-based smart home automation systems, integrating advanced motion control systems, and deploying cloud-based applications like fraud detection and real-time monitoring using tools such as Docker, Kubernetes, and Jenkins.          
-💻 I’ve also worked on projects involving image recognition, predictive maintenance systems, and hardware-software integration using frameworks like TensorFlow, Rockwell, Siemens, and Codesys.         
-💡 I’m passionate about collaborating on innovative projects that fuse hardware automation, IoT, and scalable software systems, particularly in cloud platforms and edge computing environments.           
-📫 Let’s connect: ravikumarnalla1311@gmail.com | [LinkedIn](https://www.linkedin.com/in/ravi-kumar-nalla-1a238b22a/)          
-😄 Languages: English, Hindi, Telugu          
-⚡ Fun fact: I’m a certified National Cadet Corps (NCC) member and a State-level Kabaddi player!
+👋 Hey, I’m Ravi Kumar Nalla!
+🚀 AI Engineer | Cloud & DevOps | Full-Stack Innovator
 
+🔹 What I Do
+🔍 I specialize in AI-driven software engineering, cloud computing, and full-stack development, building scalable and intelligent solutions that bridge the gap between machine learning, automation, and cloud infrastructure.
+
+💡 What I’m Building
+AI-Powered Applications – NLP, computer vision, and predictive modeling solutions optimized for real-time performance.
+Cloud-Native Architectures – Deploying AI models, microservices, and ML workflows on AWS, Kubernetes, and serverless environments.
+End-to-End Automation – Integrating CI/CD, MLOps, and distributed systems for scalable AI/ML pipelines.
+🔥 Tech Stack & Tools
+💻 Languages: Python, Java, Scala, TypeScript, Go
+⚙️ ML & AI: TensorFlow, PyTorch, OpenCV, Transformers, LLMs
+☁️ Cloud & DevOps: AWS (S3, Lambda, EKS), Azure, Docker, Kubernetes, Terraform
+📊 Data & Databases: PostgreSQL, MongoDB, Snowflake, DynamoDB
+
+⚡ Fun Fact
+When I’m not optimizing AI workflows, you’ll find me playing Kabaddi at a state level or pushing my limits in the National Cadet Corps (NCC)!
